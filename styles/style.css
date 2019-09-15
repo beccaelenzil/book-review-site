@@ -1,0 +1,23 @@
+h1,footer {
+    color: blueviolet;
+    border: 5px violet;
+    background: pink
+}
+
+nav,a:hover {
+    background-color: yellowgreen;
+}
+
+li {list-style-type: none;}
+
+h2 {color: blue }
+h3 {color: navy}
+h4 {color: darkslateblue}
+h5 {color: green  }
+
+nav {background: fuchsia}
+div {background: salmon;}
+body {
+    font-family: Helvetica;
+}
+
