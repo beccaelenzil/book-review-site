@@ -1,6 +1,6 @@
 h1,footer {
     color: blueviolet;
-    border: 5px violet;
+    border-top: 5px solid violet;
     background: pink
 }
 
